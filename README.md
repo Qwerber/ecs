@@ -70,6 +70,8 @@ ObjectPool
 
 --pool()
 
+(Insert Large Component Lib)
+
 * virtual functions
 * 
 * object ID macros
